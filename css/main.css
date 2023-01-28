@@ -1,0 +1,44 @@
+/* --- Basic CSS Reset --- */
+
+#title {
+    text-align: center;
+    text-size-adjust: 30%;
+}
+
+
+.snowman {
+    background-image: url('..images/svg/firstsnowman');
+}
+
+.snowman {
+    fill: rgb(217, 6, 126);
+    margin-left: 1/5;
+}
+
+
+.snowman:hover {
+    fill: coral;
+
+}
+
+
+/* 
+
+    CSS Guide
+
+    1. General Styles
+    2. Grid
+    3. Header
+    4. Main Hero Image
+    5. Why Couples Resort
+    6. About & FAQ
+    7. Contact Form
+    8. Footer
+
+*/
+
+
+
+.hidden {
+    display: none;
+}
