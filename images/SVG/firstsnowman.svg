@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 612">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #111217;
+      }
+
+      .cls-3, .cls-2, .cls-4 {
+        stroke: #2d2d72;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #b6bee1;
+      }
+
+      .cls-2 {
+        stroke-width: .66px;
+      }
+
+      .cls-4 {
+        stroke-width: .77px;
+      }
+    </style>
+  </defs>
+  <circle id="middle" class="cls-3" cx="392.91" cy="342.62" r="48.67"/>
+  <circle id="bottom" class="cls-3" cx="394.04" cy="447.62" r="57.29"/>
+  <circle id="top" class="cls-4" cx="391.51" cy="255.94" r="37.35"/>
+  <g id="hat">
+    <ellipse class="cls-2" cx="390.66" cy="222.75" rx="68.31" ry="6.21"/>
+    <rect class="cls-1" x="362.53" y="170.51" width="55.52" height="49.68"/>
+  </g>
+  <ellipse id="left_eye" data-name="left eye" class="cls-1" cx="377.41" cy="250.14" rx="8.05" ry="7.2"/>
+  <ellipse id="right_eye" data-name="right eye" class="cls-1" cx="405.36" cy="249.29" rx="8.05" ry="7.2"/>
+</svg>
